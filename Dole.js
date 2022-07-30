@@ -1,2 +1,2 @@
 console.log('Js Methods');
-console.log("methodssssssssss!!!!!!!!!!!!!!1")
+console.log("methodssssssssss!!!!!!!!!!!!!!!!!!1")
